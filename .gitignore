@@ -1,0 +1,8 @@
+# Arquivos gerados pela compilação
+/out/
+/build/
+*.class
+
+# Arquivos temporários de sistemas operacionais
+.DS_Store
+Thumbs.db
